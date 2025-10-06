@@ -1,0 +1,3 @@
+interface RumahSakit {
+    void melayanipasien();    
+}
