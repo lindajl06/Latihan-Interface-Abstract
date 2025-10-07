@@ -8,7 +8,7 @@ class Dokter extends Pegawai implements RumahSakit {
 
     @Override
     public void bekerja() {
-        System.out.println("Dokter " + Nama + " sedang memeriksa pasien.");
+        System.out.println("Dokter " + Nama + " sedang bekerja di poli " + Spesialisasi + ".");
     }
 
     @Override
