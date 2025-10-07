@@ -7,10 +7,10 @@ class Perawat extends Pegawai implements RumahSakit {
     }
 
     public void bekerja() {
-        System.out.println("Pegawai " + Nama + " bekerja di unit " + UnitKerja + ".");
+        System.out.println("Perawat " + Nama + " bekerja di unit " + UnitKerja + ".");
     }
 
     public void melayanipasien() {
-        System.out.println("Pegawai " + Nama + " membantu pelayanan pasien di unit " + UnitKerja + ".");
+        System.out.println("Perawat " + Nama + " membantu pelayanan pasien di unit " + UnitKerja + ".");
     }
 }
