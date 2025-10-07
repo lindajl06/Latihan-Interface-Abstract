@@ -1,3 +1,3 @@
-interface RumahSakit {
-    void melayanipasien();    
+interface RumahSakit { 
+    void melayanipasien();  //method yang harus ada di setiap kelas yang mengimplementasikan RumahSakit
 }

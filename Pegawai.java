@@ -1,4 +1,4 @@
-abstract class Pegawai {
+abstract class Pegawai { //abstract kelas berisi method abstract bekerja() yang implementasinya nanti ditulis di kelas anak
     protected String NIP;
     protected String Nama;
     protected double Gaji;

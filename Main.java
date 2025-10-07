@@ -1,10 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        Dokter[] daftarDokter = new Dokter[2];
+        Dokter[] daftarDokter = new Dokter[2]; //array of object untuk Dokter
         daftarDokter[0] = new Dokter("F1D02310072", "Dr. Linda", 15000000, "Bedah");
         daftarDokter[1] = new Dokter("F1D02310007", "Dr. Devita", 14000000, "Anak");
 
-        Perawat[] daftarPerawat = new Perawat[2];
+        Perawat[] daftarPerawat = new Perawat[2]; //array of object untuk Perawat
         daftarPerawat[0] = new Perawat("P001", "Lugia", 7000000, "Unit Gawat Darurat");
         daftarPerawat[1] = new Perawat("P002", "David", 7500000, "Unit Rawat Inap");
 
